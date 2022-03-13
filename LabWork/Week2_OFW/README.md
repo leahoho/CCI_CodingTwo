@@ -1,6 +1,6 @@
 **HSB Color**
 
-🖥 Video link: https://youtu.be/SN4sWsLB4Uo
+🖥 Video link: https://youtu.be/LCGmWBfke-o
 
 
 
