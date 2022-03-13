@@ -1,20 +1,24 @@
 **HSB Color**
 
-🖥 Video link: https://youtu.be/FRaLQx-h4f8
+🖥 Video link: https://youtu.be/SN4sWsLB4Uo
 
 
 
 
-https://user-images.githubusercontent.com/39073888/158075311-ddc3a915-f643-496d-9688-d06717b04455.mov
+https://user-images.githubusercontent.com/39073888/158084033-adbb473b-1915-4c47-bb3c-171567163e0a.mp4
+
+
+
 
 
 
 
 **Color Sinewave**
 
-🖥 Video link: https://youtu.be/J-3B0b2UdMg
+🖥 Video link: https://youtu.be/P2o8g17t8Wo
 
 
 
-https://user-images.githubusercontent.com/39073888/158075314-3f490c8b-bbae-4782-bda7-23f52f31a803.mov
+
+https://user-images.githubusercontent.com/39073888/158084041-2ebfcca2-b83c-477d-ab88-ec13368b0892.mp4
 
