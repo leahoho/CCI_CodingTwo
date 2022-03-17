@@ -1,3 +1,5 @@
+## Final Project - Disco Diffusion
+
 💡 **Overview**
 
 This experimental project uses Disco Diffusion to generate artworks by experimenting with different text prompt and parameters to understand how CLIP Text-to-image generation works. Disco Diffusion is a Google Colab Notebook that leverages an AI Image generating technique called CLIP-Guided Diffusion to allow you to create compelling and beautiful images from just text inputs. First, I used the default setting to understand how it works. After that, I tested four more text prompts to instruct the AI to generate images that are hopefully very close to what I am picturing. In the end, I generated two videos with different text prompts and parameters based on my understanding of the results from the previous experimental images. As a result, it successfully created a stunning and unexpected video from Disco Diffusion. The following will describe the experiment process and explain how CLIP Text-to-image generation works. 
