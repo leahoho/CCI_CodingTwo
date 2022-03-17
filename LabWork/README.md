@@ -58,3 +58,5 @@ https://github.com/leahoho/CCI_CodingTwo/tree/main/LabWork/Week6_Webscraper/Amaz
 **💻 WEEK 8 - Tensor Flow: 🖼**
 
 https://github.com/leahoho/CCI_CodingTwo/tree/main/LabWork/Week8_Tensorflow
+<img width="1033" alt="158077070-ee470fd9-69e7-4730-ab53-f7cc71b6103b" src="https://user-images.githubusercontent.com/39073888/158735446-ba20ab72-79f3-491b-9a41-86f7a165eb6b.png">
+
