@@ -1,0 +1,106 @@
+{
+    "text_prompts": {
+        "0": [
+            "museum books library magical"
+        ],
+        "10": [
+            "museum books library magical | bubble sphere artstation"
+        ],
+        "40": [
+            "museum books library magical | phoenix bird illustration artstation art picture flaming depiction mythology hell"
+        ],
+        "50": [
+            "museum books library magical | unicorn illustration artstation art picture flaming depiction mythology"
+        ],
+        "70": [
+            "museum books library magical | artists concept artstation star megastructure universe space orbit  sphere"
+        ],
+        "78": [
+            "museum books library magical | artstation past nature wonderland"
+        ],
+        "90": [
+            "museum books library magical | building disneyland artstation"
+        ],
+        "100": [
+            "museum books library magical | walking around artstation rain"
+        ],
+        "107": [
+            "museum books library magical | artstation crowded street people aerial view"
+        ],
+        "133": [
+            "museum books library magical | working crowds artstation aerial"
+        ],
+        "148": [
+            "museum books library magical | happy people walking crowd"
+        ],
+        "157": [
+            "museum books library magical | rainy day bookshop book store artstation"
+        ],
+        "179": [
+            "museum books library magical | pink glow rain street artstation"
+        ],
+        "200": [
+            "museum books library magical | life in the past old pictures"
+        ]
+    },
+    "image_prompts": {},
+    "clip_guidance_scale": 500,
+    "tv_scale": 150,
+    "range_scale": 150,
+    "sat_scale": 0,
+    "cutn_batches": 1,
+    "max_frames": 200,
+    "interp_spline": "Linear",
+    "init_image": "/content/library.png",
+    "init_scale": 1000,
+    "skip_steps": 125,
+    "frames_scale": 35000,
+    "frames_skip_steps": "60%",
+    "perlin_init": false,
+    "perlin_mode": "mixed",
+    "skip_augs": false,
+    "randomize_class": true,
+    "clip_denoised": false,
+    "clamp_grad": true,
+    "clamp_max": 0.05,
+    "seed": 3348801624,
+    "fuzzy_prompt": false,
+    "rand_mag": 0.05,
+    "eta": 0.8,
+    "width": 791,
+    "height": 500,
+    "diffusion_model": "512x512_diffusion_uncond_finetune_008100",
+    "use_secondary_model": true,
+    "steps": 250,
+    "diffusion_steps": 1000,
+    "sampling_mode": "bicubic",
+    "ViTB32": true,
+    "ViTB16": true,
+    "ViTL14": false,
+    "RN101": false,
+    "RN50": true,
+    "RN50x4": false,
+    "RN50x16": false,
+    "RN50x64": false,
+    "cut_overview": "[8]*30+[0]*2970",
+    "cut_innercut": "[8]*30+[32]*2970",
+    "cut_ic_pow": 1,
+    "cut_icgray_p": "[0.2]*30+[0]*2970",
+    "key_frames": true,
+    "angle": "0:(0)",
+    "zoom": "0: (1)",
+    "translation_x": "0:(0), 30:(16), 84:(0), 101:(-16), 143:(0)",
+    "translation_y": "0:(16), 30:(0), 84:(-16), 101:(0), 143:(14)",
+    "translation_z": "0:(0), 143:(0), 146(5)",
+    "rotation_3d_x": "0: (0)",
+    "rotation_3d_y": "0: (0)",
+    "rotation_3d_z": "0: (0)",
+    "midas_depth_model": "dpt_large",
+    "midas_weight": 0.3,
+    "near_plane": 200,
+    "far_plane": 10000,
+    "fov": 88,
+    "padding_mode": "border",
+    "video_init_path": "training.mp4",
+    "extract_nth_frame": 2
+}
