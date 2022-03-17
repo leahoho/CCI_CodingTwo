@@ -47,16 +47,23 @@ https://user-images.githubusercontent.com/39073888/158084787-5f76df7e-055a-47ae-
 
 https://github.com/leahoho/CCI_CodingTwo/tree/main/LabWork/Week6_Webscraper/AmazonWebScraping_ProductPage
 
+![Group 1220](https://user-images.githubusercontent.com/39073888/158735915-a41cef33-7d95-4051-996e-c1cd09b4b02d.png)
+
+
 ----
 
 (2) Webscraper / Amazon Product List Page:
 
 https://github.com/leahoho/CCI_CodingTwo/tree/main/LabWork/Week6_Webscraper/AmazonWebscraper_ProductListPage
 
+![Group 1216](https://user-images.githubusercontent.com/39073888/158735922-918a7832-77e0-4102-a249-71d295b87054.png)
+
+
 ----
 
 **💻 WEEK 8 - Tensor Flow: 🖼**
 
 https://github.com/leahoho/CCI_CodingTwo/tree/main/LabWork/Week8_Tensorflow
+
 <img width="1033" alt="158077070-ee470fd9-69e7-4730-ab53-f7cc71b6103b" src="https://user-images.githubusercontent.com/39073888/158735446-ba20ab72-79f3-491b-9a41-86f7a165eb6b.png">
 
