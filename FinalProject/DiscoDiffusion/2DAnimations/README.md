@@ -1,5 +1,7 @@
 **(1) 2D Animation - Flower Castle**
 
+Video Link:
+
 https://user-images.githubusercontent.com/39073888/158870079-df38c10c-5130-42d0-8136-24f09a40dfc2.mp4
 
 Text Prompt: 
@@ -13,6 +15,8 @@ Text Prompt:
 
 
 **(2) 2D Animation - Magical Library**
+
+Video Link:
 
 https://user-images.githubusercontent.com/39073888/158870382-1c2ac13b-2260-4e6e-b86f-c86f3a84db0b.mp4
 
