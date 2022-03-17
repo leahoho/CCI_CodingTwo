@@ -16,7 +16,7 @@ Text Prompt:
 
 **(2) 2D Animation - Magical Library**
 
-Video Link:
+Video Link: https://youtu.be/OwNfKid53U4
 
 https://user-images.githubusercontent.com/39073888/158870382-1c2ac13b-2260-4e6e-b86f-c86f3a84db0b.mp4
 
